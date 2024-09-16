@@ -1,0 +1,1 @@
+console.log("adding js into html by creating extra file!!!");
